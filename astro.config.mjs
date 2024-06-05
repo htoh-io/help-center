@@ -10,7 +10,7 @@ export default defineConfig({
 		starlight({
 			title: 'Traveler Documentation',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				linkedin: 'https://www.linkedin.com/company/htoh-superapp/'
 			},
 			defaultLocale: 'en',
 			locales: {
@@ -22,13 +22,6 @@ export default defineConfig({
 				}
 			},
 			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
-					],
-				},
 				{
 					label: 'Get started',
 					collapsed: true,
