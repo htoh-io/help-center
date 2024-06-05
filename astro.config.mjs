@@ -15,6 +15,9 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/htoh-logo.png',
 			},
+			customCss: [
+				'./src/styles/custom.css',
+			],
 			defaultLocale: 'en',
 			locales: {
 				en: {
