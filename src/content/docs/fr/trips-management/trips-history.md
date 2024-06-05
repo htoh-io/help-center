@@ -1,6 +1,5 @@
 ---
 title: Comment accéder à vos déplacements passés et à venir ?
-description: SPT-A-17
 ---
 
 1. Sur la page d'accueil, à droite du titre **Prochains déplacements**, cliquez sur **Voir tout**

@@ -1,6 +1,5 @@
 ---
 title: How to modify my personal information?
-description: SPT-A-36
 ---
 
 1. Go to the **My profile** tab

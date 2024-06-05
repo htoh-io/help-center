@@ -1,6 +1,5 @@
 ---
 title: How to add an appointment?
-description: SPT-A-41
 ---
 
 ## Adding an appointment manually

@@ -1,6 +1,5 @@
 ---
 title: What type of reservation can I import through email transfer?
-description: SPT-A-30
 ---
 
 We reference over **700 providers worldwide, in more than 40 languages**. You can forward booking confirmation emails to the unique address provided in your HtoH app to automatically import the information. Click on this link to view the complete list of eligible providers: https://awardwallet.com/supportedEmail

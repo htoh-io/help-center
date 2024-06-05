@@ -1,6 +1,5 @@
 ---
 title: How to save your loyalty cards?
-description: SPT-A-38
 ---
 
 1. Go to the **Wallet** tab.

@@ -1,6 +1,5 @@
 ---
 title: Quel type de réservation je peux importer par transfert d'email ?
-description: SPT-A-10
 ---
 
 Nous référençons plus de **700 prestataires à travers le monde, dans plus de 40 langues**, vous pouvez transférer les emails de confirmation de réservation à l'adresse unique indiquée dans votre appli HtoH pour importer automatiquement les informations. Cliquez sur cce lien pour consulter la liste complète des prestataires éligibles : https://awardwallet.com/supportedEmail

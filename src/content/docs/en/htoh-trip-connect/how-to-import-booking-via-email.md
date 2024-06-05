@@ -1,6 +1,5 @@
 ---
 title: How to import my reservation through email transfer?
-description: SPT-A-31
 ---
 
 ### **👇 Watch this video**

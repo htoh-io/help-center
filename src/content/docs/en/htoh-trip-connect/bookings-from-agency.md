@@ -1,6 +1,5 @@
 ---
 title: I booked with my company's tool or travel agency, how do I retrieve my reservation?
-description: SPT-A-33
 ---
 
 Whether it's through a corporate tool or your employer's travel agency, the process is the same, **you don't have to do anything!**

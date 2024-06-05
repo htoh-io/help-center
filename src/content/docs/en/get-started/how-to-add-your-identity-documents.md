@@ -1,6 +1,5 @@
 ---
 title: How to save your identity documents?
-description: SPT-A-76
 ---
 
 In the app, download 4 types of essential travel documents: ID card, Passport, Driver's License, and Visa.

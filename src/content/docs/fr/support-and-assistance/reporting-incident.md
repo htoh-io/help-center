@@ -1,6 +1,5 @@
 ---
 title: À quoi servent les boutons de signalement en cas de danger ?
-description: SPT-A-69
 ---
 
 La fonctionnalités “Signalement en cas de danger”, aussi appelée Safety Check, est à votre disposition pour garantir votre sécurité et votre bien-être lors de vos déplacements.

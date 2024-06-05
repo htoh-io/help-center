@@ -1,6 +1,5 @@
 ---
 title: Comment réinitialiser mon mot de passe ?
-description: SPT-A-70
 ---
 
 Si vous avez oublié votre mot de passe ou rencontrez des difficultés à vous connecter, vous pouvez réinitialiser votre mot de passe :

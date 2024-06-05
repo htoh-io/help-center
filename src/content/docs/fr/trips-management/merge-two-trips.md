@@ -1,6 +1,5 @@
 ---
 title: Comment fusionner deux déplacements ?
-description: SPT-A-64
 ---
 
 1. Allez dans un des déplacements à fusionner

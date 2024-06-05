@@ -1,6 +1,5 @@
 ---
 title: What are the buttons for reporting in case of danger?
-description: SPT-A-86
 ---
 
 **Safety Check** feature is available to ensure your safety and well-being during your travels.

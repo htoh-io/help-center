@@ -1,6 +1,5 @@
 ---
 title: Comment importer ma réservation par transfert d'email ?
-description: SPT-A-11
 ---
 
 ### 👇 Regardez la vidéo tuto juste ici

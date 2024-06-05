@@ -1,6 +1,5 @@
 ---
 title: How to modify or delete a trip?
-description: SPT-A-24
 ---
 
 ## Modify a trip

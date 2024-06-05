@@ -1,6 +1,5 @@
 ---
 title: Quel type d’email je dois transférer pour importer une réservation ?
-description: SPT-A-12
 ---
 
 ### L’email de confirmation de réservation du prestataire est le seul réellement fiable !

@@ -1,6 +1,5 @@
 ---
 title: How to merge two trips?
-description: SPT-A-79
 ---
 
 1. Go to one of the trips to be merged

@@ -1,6 +1,5 @@
 ---
 title: Comment enregistrer vos pièces d'identité ?
-description: SPT-A-60
 ---
 
 Dans l’application, téléchargez 4 types de documents essentiels pour voyager : Carte d'identité, Passeport, Permis de conduire et Visa

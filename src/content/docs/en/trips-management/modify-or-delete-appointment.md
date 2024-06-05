@@ -1,6 +1,5 @@
 ---
 title: How to modify or delete an appointment?
-description: SPT-A-78
 ---
 
 ## Deleting an appointment

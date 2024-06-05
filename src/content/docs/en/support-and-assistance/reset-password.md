@@ -1,6 +1,5 @@
 ---
 title: How do I reset my password?
-description: SPT-A-87
 ---
 
 If you've forgotten your password or are having trouble logging in, you can reset your password:

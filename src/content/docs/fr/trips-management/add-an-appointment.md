@@ -1,6 +1,5 @@
 ---
 title: Comment ajouter un rendez-vous ?
-description: SPT-A-67
 ---
 
 ## Ajouter un rendez-vous manuellement

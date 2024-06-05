@@ -1,6 +1,5 @@
 ---
 title: How long does it take for my reservation to be imported?
-description: SPT-A-83
 ---
 
 Whether by email forwarding from your booking tool or by booking directly with the travel agency, importing a reservation into your app can take **up to 5 minutes**.

@@ -1,6 +1,5 @@
 ---
 title: How to save your ID documents?
-description: SPT-A-37
 ---
 
 1. Go to the **Wallet** tab.

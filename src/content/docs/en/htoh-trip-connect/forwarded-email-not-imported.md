@@ -1,6 +1,5 @@
 ---
 title: I forwarded an email to my @htoh.app address, but it's not imported
-description: SPT-A-29
 ---
 
 ## Did I follow the procedure correctly?

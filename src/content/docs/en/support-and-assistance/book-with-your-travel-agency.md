@@ -1,6 +1,5 @@
 ---
 title: How to contact your company's travel agency within the app to make a reservation?
-description: SPT-A-34
 ---
 
 ## ✅ I have access to the services of a travel agency within my company

@@ -1,6 +1,5 @@
 ---
 title: Je suis en danger. Que dois-je faire ?
-description: SPT-A-68
 ---
 
 En déplacement, tout peut arriver, le meilleur comme le pire. Dans une situation de danger, de choc ou de stress, il est primordial de signaler sa situation rapidement et sans complications.

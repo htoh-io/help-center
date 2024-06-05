@@ -1,6 +1,5 @@
 ---
 title: How to access your past and upcoming trips?
-description: SPT-A-39
 ---
 
 1. On the homepage, to the right of the title **Upcoming Trips**, click on **View All**

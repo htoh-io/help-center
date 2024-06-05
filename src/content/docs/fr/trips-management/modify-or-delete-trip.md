@@ -1,6 +1,5 @@
 ---
 title: Comment modifier ou supprimer un déplacement ?
-description: SPT-A-3
 ---
 
 ## Modifier un voyage

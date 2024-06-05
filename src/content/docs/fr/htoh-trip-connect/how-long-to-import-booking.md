@@ -1,6 +1,5 @@
 ---
 title: En combien de temps ma réservation est importée ?
-description: SPT-A-72
 ---
 
 Par transfert d’email, depuis votre outil de réservation ou en réservant directement avec l’agence de voyages, l'importation d'une réservation dans votre app peut prendre **jusqu’à 5 minutes**.

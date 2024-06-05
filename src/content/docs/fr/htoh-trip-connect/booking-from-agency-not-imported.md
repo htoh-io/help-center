@@ -1,6 +1,5 @@
 ---
 title: J'ai réservé avec l'outil de mon entreprise, mais ma réservation n'est pas importée
-description: SPT-A-8
 ---
 
 1. Réservez depuis l'outil. Quelques exemples d'outils d'entreprise : KDS, The Treep, Rydoo, TripActions, TravelPerk, ...

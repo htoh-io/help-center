@@ -1,6 +1,5 @@
 ---
 title: Comment activer ou désactiver les notifications système HtoH de mon téléphone ?
-description: SPT-A-40
 ---
 
 ## Sur Android (Google)

@@ -1,6 +1,5 @@
 ---
 title: J'ai un problème avec une réservation, comment contacter un support ?
-description: SPT-A-71
 ---
 
 Pour tout renseignement ou toute urgence concernant vos réservations, vous pouvez via HtoH vous adresser directement au prestataire de voyage concerné. Cliquez sur l’onglet Assistance accessible depuis tous les écrans de votre compagnon.

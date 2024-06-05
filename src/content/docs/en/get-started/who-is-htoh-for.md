@@ -1,6 +1,5 @@
 ---
 title: Who is HtoH for?
-description: SPT-A-75
 ---
 
 HtoH application is your digital travel assistant, your travel companion. It aims to automate all unproductive tasks for organizing your trips and retrieve all the necessary information so that you can travel with peace of mind. The HtoH Companion is designed to meet the needs of travelers while respecting the requirements of the sponsor, whether it is a company or a service provider.

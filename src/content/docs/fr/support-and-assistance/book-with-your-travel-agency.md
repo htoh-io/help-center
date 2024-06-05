@@ -1,6 +1,5 @@
 ---
 title: Comment contacter l'agence de voyages de votre entreprise dans l'application pour réserver ?
-description: SPT-A-35
 ---
 
 ## ✅ J'ai accès aux services d'une agence de voyages au sein de mon entreprise

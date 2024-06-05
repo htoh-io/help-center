@@ -1,6 +1,5 @@
 ---
 title: Comment modifier ou supprimer un rendez-vous ?
-description: SPT-A-65
 ---
 
 ## Supprimer un rendez-vous

@@ -1,6 +1,5 @@
 ---
 title: J'ai réservé avec l'outil ou l'agence de voyages de mon entreprise, comment récupérer ma réservation ?
-description: SPT-A-13
 ---
 
 Que ça soit depuis un outil corporate ou depuis l'agence de voyages de votre employeur, le principe est le même, **vous n'avez rien à faire !**

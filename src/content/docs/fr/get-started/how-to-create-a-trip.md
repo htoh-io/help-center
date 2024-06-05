@@ -1,6 +1,5 @@
 ---
 title: Comment créer un déplacement ?
-description: SPT-A-5
 ---
 
 Vos déplacements se présentent sous la forme d'un agenda dans lequel vous pouvez y ajouter vos réservations et vos rendez-vous de manière ludique pour ne plus rien oublier avant votre départ.

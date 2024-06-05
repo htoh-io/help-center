@@ -1,6 +1,5 @@
 ---
 title: Comment enregistrer vos pièces d'identité ?
-description: SPT-A-14
 ---
 
 1. Allez dans l'onglet **Wallet**

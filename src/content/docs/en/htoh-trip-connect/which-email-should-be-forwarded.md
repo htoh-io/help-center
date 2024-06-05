@@ -1,6 +1,5 @@
 ---
 title: What type of email should I forward to import a reservation?
-description: SPT-A-32
 ---
 
 ### The confirmation email from the provider is the only one that's truly reliable!

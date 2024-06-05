@@ -1,6 +1,5 @@
 ---
 title: Qu'est-ce que HtoH Trip Connect© ?
-description: SPT-A-6
 ---
 
 HtoH Trip Connect© est une technologie signée HtoH qui automatise la centralisation de vos réservations de voyage.

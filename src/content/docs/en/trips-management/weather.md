@@ -1,6 +1,5 @@
 ---
 title: How to check the weather for each trip?
-description: SPT-A-81
 ---
 
 <span style="background-color:moccasin;">📌 The weather forecasts provided by our application are estimates, and our team cannot be held responsible for any discrepancies between the forecasts and the actual conditions</span>

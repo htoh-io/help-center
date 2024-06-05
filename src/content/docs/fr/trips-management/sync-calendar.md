@@ -1,6 +1,5 @@
 ---
 title: Comment synchroniser vos rendez-vous dans vos déplacements?
-description: SPT-A-73
 ---
 
 Si vous synchronisez votre agenda avec l’application pour la 1ère fois, Il est possible qu’une alerte de votre téléphone se déclenche afin d’approuver l’importation des données de votre agenda

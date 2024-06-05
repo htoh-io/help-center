@@ -1,6 +1,5 @@
 ---
 title: Comment nous contacter ?
-description: SPT-A-54
 ---
 
 ## Contacter notre support

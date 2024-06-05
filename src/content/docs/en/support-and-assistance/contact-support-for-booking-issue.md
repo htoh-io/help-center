@@ -1,6 +1,5 @@
 ---
 title: I have an issue with a reservation, how can I contact support?
-description: SPT-A-85
 ---
 
 For any inquiries or emergencies regarding your reservations, you can directly contact the relevant travel provider through HtoH. Click on the Assistance tab accessible from all screens of your travel companion.

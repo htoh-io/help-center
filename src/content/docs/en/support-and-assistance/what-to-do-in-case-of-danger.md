@@ -1,6 +1,5 @@
 ---
 title: I am in danger. What should I do?
-description: SPT-A-84
 ---
 
 While traveling, anything can happen, for better or for worse. In a situation of danger, shock, or stress, it is crucial to report your situation quickly and without complications.

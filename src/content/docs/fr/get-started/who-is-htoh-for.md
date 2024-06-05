@@ -1,6 +1,5 @@
 ---
 title: À qui s’adresse HtoH ?
-description: SPT-A-61
 ---
 
 L'application HtoH est votre assistant, votre compagnon de voyage digital. Il a pour objectif d’automatiser toutes les tâches improductives pour l'organisation de vos déplacements et de récupérer toutes les informations nécessaires afin que vous puissiez voyager en toute quiétude. le Compagnon HtoH est conçu pour répondre aux besoins des voyageurs tout en respectant les exigences du commanditaire qu’il s’agisse d’une entreprise ou d’un prestataire.

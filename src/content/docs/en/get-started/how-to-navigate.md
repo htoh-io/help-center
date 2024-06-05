@@ -1,6 +1,5 @@
 ---
 title: How to navigate the app?
-description: SPT-A-22
 ---
 
 ![](./images/tab-bar.png)

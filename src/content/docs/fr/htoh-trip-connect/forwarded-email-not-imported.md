@@ -1,6 +1,5 @@
 ---
 title: J'ai transféré un email à mon adresse @htoh.app, mais elle n'est pas importée
-description: SPT-A-9
 ---
 
 ## Ai-je bien suivi la procédure?

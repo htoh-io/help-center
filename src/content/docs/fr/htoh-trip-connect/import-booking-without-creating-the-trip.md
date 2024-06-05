@@ -1,6 +1,5 @@
 ---
 title: Est-ce que je peux importer une réservation sans créer le déplacement ?
-description: SPT-A-7
 ---
 
 Oui, grâce à la technologie [HtoH Trip Connect©](/fr/htoh-trip-connect/what-is-htoh-trip-connect), réservez, c'est importé !

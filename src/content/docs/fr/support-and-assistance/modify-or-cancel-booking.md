@@ -1,6 +1,5 @@
 ---
 title: Comment modifier ou annuler une réservation ?
-description: SPT-A-56
 ---
 
 ## Adressez-vous directement au prestataire en charge de votre réservation

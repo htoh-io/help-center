@@ -1,6 +1,5 @@
 ---
 title: Comment forcer l'actualisation des informations dans l'app ?
-description: SPT-A-52
 ---
 
 Parfois, quand vous attendez l'importation d'une réservation ou la création d'un nouveau voyage, il peut être nécessaire de forcer l'actualisation des informations présentes dans HtoH.

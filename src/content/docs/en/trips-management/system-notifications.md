@@ -1,6 +1,5 @@
 ---
 title: How to enable or disable HtoH system notifications on my phone?
-description: SPT-A-82
 ---
 
 ## On Android (Google)

@@ -1,6 +1,5 @@
 ---
 title: How to force data refresh in the app?
-description: SPT-A-53
 ---
 
 Sometimes, when you're waiting for a reservation import or creating a new trip, it may be necessary to force the refresh of information within HtoH.

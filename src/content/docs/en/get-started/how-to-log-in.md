@@ -1,6 +1,5 @@
 ---
 title: How to log in to the HtoH mobile application?
-description: SPT-A-74
 ---
 
 ## **Download the application**

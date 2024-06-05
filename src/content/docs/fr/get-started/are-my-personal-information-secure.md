@@ -1,6 +1,5 @@
 ---
 title: Mes informations personnelles sont-elles sécurisées sur HtoH ?
-description: SPT-A-63
 ---
 
 Soucieux de protéger votre vie privée, chez HtoH, nous mettons tout en œuvre pour protéger la confidentialité de vos informations personnelles. Nous nous engageons à respecter la réglementation en vigueur en France et dans l’Union Européenne en matière de protection des données à caractère personnel.

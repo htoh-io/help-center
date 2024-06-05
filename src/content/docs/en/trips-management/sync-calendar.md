@@ -1,6 +1,5 @@
 ---
 title: How to sync your appointments in trips?
-description: SPT-A-80
 ---
 
 If you sync your calendar with the app for the first time, you may receive a phone alert to approve the import of your calendar data

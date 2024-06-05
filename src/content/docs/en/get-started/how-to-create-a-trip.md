@@ -1,6 +1,5 @@
 ---
 title: How to create a trip?
-description: SPT-A-25
 ---
 
 Your trips are presented in the form of an agenda where you can add your reservations and appointments in a playful way so you don't forget anything before you leave.

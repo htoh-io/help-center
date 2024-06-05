@@ -1,6 +1,5 @@
 ---
 title: Comment enregistrer vos cartes de fidélité ?
-description: SPT-A-16
 ---
 
 1. Allez dans l'onglet **Wallet**

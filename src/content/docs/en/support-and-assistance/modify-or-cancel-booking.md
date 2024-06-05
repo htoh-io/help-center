@@ -1,6 +1,5 @@
 ---
 title: How to modify or cancel a reservation?
-description: SPT-A-57
 ---
 
 ### Directly contact the provider responsible for your reservation.

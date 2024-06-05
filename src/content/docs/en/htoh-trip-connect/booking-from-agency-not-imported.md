@@ -1,6 +1,5 @@
 ---
 title: I made a reservation with my company's tool, but it is still not imported
-description: SPT-A-28
 ---
 
 1. Book through the tool

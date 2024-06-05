@@ -1,6 +1,5 @@
 ---
 title: Comment se connecter à l'application mobile HtoH ?
-description: SPT-A-62
 ---
 
 ## Télécharger l'application
