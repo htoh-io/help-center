@@ -8,4 +8,5 @@ title: How to save your loyalty cards?
 4. Enter the name of the card. The card number and expiration date are optional.
 5. Save
 
-<span style="background-color:moccasin;">**Tips:**</span><span style="background-color:moccasin;"> You can use this section to upload any other type of document useful to you. These documents are only accessible by you as they are stored on your phone and not on the servers.</span>
+:::tip
+You can use this section to upload any other type of document useful to you. These documents are only accessible by you as they are stored on your phone and not on the servers.:::

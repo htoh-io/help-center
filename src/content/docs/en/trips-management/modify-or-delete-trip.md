@@ -16,7 +16,9 @@ title: How to modify or delete a trip?
 2. Click on the "..." button at the top right
 3. Then click on **Delete**
 
-<span style="background-color:moccasin;">**Important:** </span><span style="background-color:moccasin;">Deleting a trip does not cancel the bookings and appointments you have previously saved. Please contact the providers' support to proceed with the definitive cancellation of your bookings.</span>
+:::caution
+Deleting a trip does not cancel the bookings and appointments you have previously saved. Please contact the providers' support to proceed with the definitive cancellation of your bookings.
+:::
 
 If you only want to delete an appointment or booking from a trip agenda, **[read this article here](/en/trips-management/modify-or-delete-appointment)**
 

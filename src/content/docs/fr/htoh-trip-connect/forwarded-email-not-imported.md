@@ -8,9 +8,11 @@ title: J'ai transféré un email à mon adresse @htoh.app, mais elle n'est pas i
 2. Patientez **jusqu'à 5 minutes** avant que votre réservation soit importée. Vous recevez une notification quand l'importation est terminée.
 3. Ouvrez la notification pour consulter votre réservation dans votre voyage
 
-<span style="background-color:moccasin;"></span>![](./images/import-by-email.png)
+![](./images/import-by-email.png)
 
-<span style="background-color:moccasin;">**Astuce :** </span><span style="background-color:moccasin;">Après avoir transféré l’email de confirmation de réservation, passez à autre chose, notre technologie HtoH Trip Connect fait le job !</span>
+:::tip
+Après avoir transféré l’email de confirmation de réservation, passez à autre chose, notre technologie HtoH Trip Connect fait le job !
+:::
 
 ## L'importation n'a pas fonctionné
 

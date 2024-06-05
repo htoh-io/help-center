@@ -11,7 +11,7 @@ title: Comment importer ma réservation par transfert d'email ?
 3. Transférez cet email et collez votre adresse **@htoh.app** en tant que destinataire
 4. Envoyez l'email
 
-<span style="background-color:palegreen;"></span>![](./images/import-by-email.png)
+![](./images/import-by-email.png)
 
 Quand vous réservez avec [l'outil interne ou l'agence de voyages de votre entreprise](/fr/htoh-trip-connect/bookings-from-agency), vous n'avez rien à faire, vos réservations sont récupérées automatiquement !
 

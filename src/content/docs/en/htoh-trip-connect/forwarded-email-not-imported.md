@@ -8,7 +8,9 @@ title: I forwarded an email to my @htoh.app address, but it's not imported
 2. Wait **up to 5 minutes** for your booking to be imported. You will receive a notification when the import is completed.
 3. Open the notification to view your booking in your trip.
 
-<span style="background-color:moccasin;">**Tip:**</span><span style="background-color:moccasin;"> After forwarding the booking confirmation email, move on to other tasks; our HtoH Trip Connect technology handles the job!</span>
+:::tip
+After forwarding the booking confirmation email, move on to other tasks; our HtoH Trip Connect technology handles the job!
+:::
 
 ## Importation didn't work
 

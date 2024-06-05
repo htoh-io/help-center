@@ -7,7 +7,9 @@ title: J'ai réservé avec l'outil de mon entreprise, mais ma réservation n'est
 3. Patientez **jusqu'à 5 minutes** avant que votre réservation soit importée. Vous recevez une notification quand l'importation est terminée.
 4. Ouvrez la notification pour consulter votre réservation dans votre voyage
 
-<span style="background-color:moccasin;">**Astuce :**</span><span style="background-color:moccasin;"> Après avoir réservé, passez à autre chose, notre technologie HtoH Trip Connect fait le job !</span>
+:::tip
+Après avoir réservé, passez à autre chose, notre technologie HtoH Trip Connect fait le job !
+:::
 
 Si vous n'avez pas reçu d’email de confirmation de votre prestataire, c'est que la réservation n'a pas encore été effectuée par votre agence, ou alors elle n’est pas encore approuvée par votre hiérarchie. Elle ne peut donc pas être importée dans l'app.
 

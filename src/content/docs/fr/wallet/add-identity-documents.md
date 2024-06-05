@@ -10,4 +10,6 @@ title: Comment enregistrer vos pièces d'identité ?
 
 Le parcours est identique pour chaque document.
 
-<span style="background-color:moccasin;">**Important :**</span><span style="background-color:moccasin;"> Les copies conservées dans HtoH ont pour objectif de pallier à un besoin de tranquillité. les pièces conservées ne sont pas des documents officiels. Ces documents ne sont accessibles que par vous puisque stockés dans le téléphone et non sur les serveurs.</span>
+:::caution
+Les copies conservées dans HtoH ont pour objectif de pallier à un besoin de tranquillité. les pièces conservées ne sont pas des documents officiels. Ces documents ne sont accessibles que par vous puisque stockés dans le téléphone et non sur les serveurs.
+:::

@@ -2,7 +2,9 @@
 title: How to check the weather for each trip?
 ---
 
-<span style="background-color:moccasin;">📌 The weather forecasts provided by our application are estimates, and our team cannot be held responsible for any discrepancies between the forecasts and the actual conditions</span>
+:::caution
+The weather forecasts provided by our application are estimates, and our team cannot be held responsible for any discrepancies between the forecasts and the actual conditions
+:::
 
 ![](./images/weather.png)
 

@@ -11,14 +11,16 @@ If you sync your calendar with the app for the first time, you may receive a pho
 
 ![](./images/unsynced-calendar.jpeg)
 
-<span style="color:dimgray;">Icon "Calendar not synchronized"</span>
+Icon "Calendar not synchronized"
 
 ![](./images/synced-calendar.jpeg)
 
-<span style="color:dimgray;">Icon "Calendar synchronized"</span>
+Icon "Calendar synchronized"
 
 All events from your synchronized calendars are automatically imported, with no action required on your part, into your existing trips only. In other words, events without pre-existing trips on the same dates are not imported.
 
 Finally, synchronization is one-way, from your calendar to the HtoH app, but not the other way around. Events from your trips are not imported into your calendar.
 
-<span style="background-color:moccasin;">**Note:**</span><span style="background-color:moccasin;"> To prevent the HtoH calendar from being biased by events in your calendar over multiple days, we have decided to automatically exclude the import of events from your calendar if the first day and/or last day are not within your trip.</span>
+:::note
+To prevent the HtoH calendar from being biased by events in your calendar over multiple days, we have decided to automatically exclude the import of events from your calendar if the first day and/or last day are not within your trip.
+:::

@@ -6,7 +6,9 @@ Oui, grâce à la technologie [HtoH Trip Connect©](/fr/htoh-trip-connect/what-i
 
 Si vous n'avez pas créé le voyage au préalable, aucun problème, **un voyage est créé automatiquement**, sans aucune action de votre part, pour y intégrer votre réservation.
 
-<span style="background-color:moccasin;">A l'inverse, vous ne pouvez pas créer un rendez-vous ou importer une réservation sans l'attribuer à un voyage</span>
+:::note
+A l'inverse, vous ne pouvez pas créer un rendez-vous ou importer une réservation sans l'attribuer à un voyage
+:::
 
 Par défaut, quand un voyage est créé automatiquement, il est nommé **Voyage à \[Nom de la ville de destination\]**. Pour le modifier, lisez [Comment modifier ou supprimer un voyage ?](/fr/trips-management/modify-or-delete-trip)
 

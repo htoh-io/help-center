@@ -7,7 +7,9 @@ title: I made a booking with my company's tool, but it is still not imported
 3. Please wait **up to 5 minutes** for your booking to be imported. You will receive a notification when the import is completed
 4. Open the notification to view your booking in your trip.
 
-<span style="background-color:moccasin;">**Tip:**</span><span style="background-color:moccasin;"> After booking, move on to other tasks; our HtoH Trip Connect technology handles the job!</span>
+:::tip
+After booking, move on to other tasks; our HtoH Trip Connect technology handles the job!
+:::
 
 If you haven't received a confirmation email from your provider, it means the booking has not yet been made by your agency or has not been approved by your hierarchy. Therefore, it cannot be imported into the app.
 

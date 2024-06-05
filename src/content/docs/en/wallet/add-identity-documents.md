@@ -10,4 +10,6 @@ title: How to save your ID documents?
 
 The process is the same for each document.
 
-<span style="background-color:moccasin;">**Important:**</span><span style="background-color:moccasin;"> Copies stored in HtoH are intended to provide peace of mind. The stored documents are not official documents. These documents are only accessible by you as they are stored on your phone and not on the servers.</span>
+:::caution
+Copies stored in HtoH are intended to provide peace of mind. The stored documents are not official documents. These documents are only accessible by you as they are stored on your phone and not on the servers.
+:::

@@ -8,7 +8,9 @@ title: Comment activer ou désactiver les notifications système HtoH de mon té
 2. Cliquez sur l'application HtoH dans la liste, puis sur Notifications
 3. Activez / désactivez **Affichage des notifications**
 
-<span style="background-color:lightcyan;">💡 La désactivation des push notifications du système d'exploitation sur Android est à peu près la même sur tous les appareils (Samsung, Sony, Huawei, Wiko, Xiaomi...)</span>
+:::note
+La désactivation des push notifications du système d'exploitation sur Android est à peu près la même sur tous les appareils (Samsung, Sony, Huawei, Wiko, Xiaomi...)
+:::
 
 ## Sur iOS (Apple)
 

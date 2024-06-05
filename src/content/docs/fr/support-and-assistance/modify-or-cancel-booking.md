@@ -18,4 +18,6 @@ HtoH est avant tout un compagnon de voyage qui vous accompagne tout au long de v
 
 Pour modifier ou annuler une réservation, contactez **avant toute chose** le prestataire (Vol, Train, Location de voiture ou Hôtel) ou l'agence de voyages de votre employeur habilité.
 
-<span style="background-color:moccasin;">**Important :** </span><span style="background-color:moccasin;">L'équipe HtoH ne pourra pas non plus vous rediriger ou mettre en relation plus rapidement avec le service qui vous désirez, même en cas d'urgence ou de force majeure</span>
+:::caution
+L'équipe HtoH ne pourra pas non plus vous rediriger ou mettre en relation plus rapidement avec le service qui vous désirez, même en cas d'urgence ou de force majeure
+:::

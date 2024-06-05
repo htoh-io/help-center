@@ -2,7 +2,9 @@
 title: Comment consulter la météo de chaque voyage ?
 ---
 
-<span style="background-color:moccasin;">📌 Les prévisions météos fournies par notre application sont des estimations, notre équipe ne peut en aucun cas être tenue pour responsable des écarts entre les prévisions et les conditions réelles</span>
+:::caution
+Les prévisions météos fournies par notre application sont des estimations, notre équipe ne peut en aucun cas être tenue pour responsable des écarts entre les prévisions et les conditions réelles
+:::
 
 ![](./images/weather.png)
 

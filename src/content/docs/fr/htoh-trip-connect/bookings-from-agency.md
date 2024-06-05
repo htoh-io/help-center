@@ -6,7 +6,7 @@ Que ça soit depuis un outil corporate ou depuis l'agence de voyages de votre em
 
 ## J'ai réservé avec l'outil de mon entreprise
 
-<span style="background-color:lightcyan;">Examples of company tools: KDS, TravelCash, The Treep, Rydoo, TripActions, TravelPerk, ...</span>
+Examples of company tools: KDS, TravelCash, The Treep, Rydoo, TripActions, TravelPerk, ...
 
 1. Réservez depuis l'outil
 2. Une fois le paiement effectué, la récupération de la réservation peut prendre quelques minutes
@@ -22,6 +22,8 @@ Que ça soit depuis un outil corporate ou depuis l'agence de voyages de votre em
 
 L'importation dépend aussi du temps de traitement de votre agence de voyages. Si vous n'avez pas reçu d’email de confirmation, c'est que la réservation n'a pas encore été effectuée par votre agence, elle ne peut donc pas être importée dans l'app.
 
-<span style="background-color:moccasin;">**Astuce :** </span><span style="background-color:moccasin;">Dans les 2 cas, après avoir réservé, passez à autre chose, notre technologie HtoH Trip Connect fait le job !</span>
+:::tip
+Dans les 2 cas, après avoir réservé, passez à autre chose, notre technologie HtoH Trip Connect fait le job !
+:::
 
 Si vous avez effectué une réservation mais qu'elle ne s'importe pas, [consultez cet article](/fr/htoh-trip-connect/booking-from-agency-not-imported)

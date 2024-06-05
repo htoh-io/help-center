@@ -16,7 +16,9 @@ title: Comment modifier ou supprimer un voyage ?
 2. Cliquez sur le bouton "**...**" tout en haut à droite
 3. Puis cliquez sur **Supprimer le voyage**
 
-<span style="background-color:moccasin;">**Important :** </span><span style="background-color:moccasin;">La suppression d'un voyage n’annule pas les réservations et les rendez-vous que vous avez enregistré préalablement. Merci de contacter le support des prestataires pour procéder à l’annulation définitive de vos réservations.</span>
+:::caution
+La suppression d'un voyage n’annule pas les réservations et les rendez-vous que vous avez enregistré préalablement. Merci de contacter le support des prestataires pour procéder à l’annulation définitive de vos réservations.
+:::
 
 Si vous souhaitez seulement supprimer un rendez-vous d'un agenda de voyage, [lisez cet article ici](/fr/trips-management/modify-or-delete-appointment)
 

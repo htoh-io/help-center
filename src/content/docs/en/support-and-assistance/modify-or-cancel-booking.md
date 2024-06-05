@@ -2,7 +2,7 @@
 title: How to modify or cancel a booking?
 ---
 
-### Directly contact the provider responsible for your booking.
+## Directly contact the provider responsible for your booking.
 
 Contact customer services directly from the application by clicking on the **Assistance** button.
 
@@ -18,4 +18,6 @@ HtoH is primarily a travel companion that accompanies you throughout your journe
 
 To modify or cancel a booking, contact the provider (Flight, Train, Car Rental, or Hotel) or your authorized employer's travel agency first.
 
-<span style="background-color:moccasin;">**Important:**</span><span style="background-color:moccasin;"> The HtoH team cannot redirect you or connect you more quickly with the service you desire, even in case of emergency or force majeure.</span>
+:::caution
+The HtoH team cannot redirect you or connect you more quickly with the service you desire, even in case of emergency or force majeure.
+:::

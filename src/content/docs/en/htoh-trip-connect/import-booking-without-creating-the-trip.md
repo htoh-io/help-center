@@ -6,7 +6,9 @@ Yes, thanks to [HtoH Trip Connect©](/en/htoh-trip-connect/what-is-htoh-trip-con
 
 If you haven't created the trip beforehand, no problem, **a trip is automatically created**, without any action on your part, to incorporate your booking.
 
-<span style="background-color:moccasin;">Conversely, you cannot create an appointment or import a booking without assigning it to a trip.</span>
+:::note
+Inversely, you cannot create an appointment or import a booking without assigning it to a trip.
+:::
 
 By default, when a trip is automatically created, it is named **Trip to \[Destination City Name\]**. To modify it, read [How to modify or delete a trip?](/en/trips-management/modify-or-delete-trip)
 

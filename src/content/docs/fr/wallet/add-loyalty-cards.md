@@ -8,4 +8,6 @@ title: Comment enregistrer vos cartes de fidélité ?
 4. Saisissez le nom de la carte. Le N° de la carte et la date d'expiration sont facultatifs.
 5. Enregistrez
 
-<span style="background-color:lightcyan;"><span style="background-color:moccasin;">**Astuce :**</span><span style="background-color:moccasin;"> </span></span><span style="background-color:moccasin;">Vous pouvez utiliser cette section pour télécharger tout autre type de document utile pour vous. Ces documents ne sont accessibles que par vous puisque stockés dans le téléphone et non sur les serveurs.</span>
+:::tip
+Vous pouvez utiliser cette section pour télécharger tout autre type de document utile pour vous. Ces documents ne sont accessibles que par vous puisque stockés dans le téléphone et non sur les serveurs.
+:::
