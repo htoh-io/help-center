@@ -8,7 +8,10 @@ export default defineConfig({
 		service: passthroughImageService()
 	},
 	integrations: [starlight({
-		title: 'Support',
+		title: {
+			en: "Help center",
+			fr: "Centre d'aide"
+		},
 		social: {
 			linkedin: 'https://www.linkedin.com/company/htoh-superapp/'
 		},
