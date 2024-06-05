@@ -8,9 +8,12 @@ export default defineConfig({
 	},
 	integrations: [
 		starlight({
-			title: 'Traveler Documentation',
+			title: 'Support',
 			social: {
 				linkedin: 'https://www.linkedin.com/company/htoh-superapp/'
+			},
+			logo: {
+				src: './src/assets/htoh-logo.png',
 			},
 			defaultLocale: 'en',
 			locales: {
