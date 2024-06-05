@@ -1,8 +1,23 @@
 :root {
     --sl-content-width: 55rem;
+
+    --sl-text-h1: var(--sl-text-3xl);
+    --sl-text-h2: var(--sl-text-2xl);
+    --sl-text-h3: var(--sl-text-xl);
+    --sl-text-h4: var(--sl-text-lg);
 }
 
 .sl-markdown-content img {
     max-width: 450px;
     margin: auto;
+}
+
+.pagination-links a span {
+    color: var(--sl-color-gray-4);
+    font-size: var(--sl-text-sm);
+}
+
+.pagination-links span.link-title {
+    color: var(--sl-color-text);
+    font-size: var(--sl-text-base);
 }
