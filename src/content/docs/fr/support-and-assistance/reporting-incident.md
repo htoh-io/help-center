@@ -2,7 +2,7 @@
 title: À quoi servent les boutons de signalement en cas de danger ?
 ---
 
-La fonctionnalités “Signalement en cas de danger”, aussi appelée Safety Check, est à votre disposition pour garantir votre sécurité et votre bien-être lors de vos déplacements.
+La fonctionnalités “Signalement en cas de danger”, aussi appelée Safety Check, est à votre disposition pour garantir votre sécurité et votre bien-être lors de vos voyages.
 
 ![](./images/report-incident.png)
 
@@ -14,4 +14,4 @@ Ces boutons servent à **envoyer votre position** instantanément et en 1 seul c
 
 En plus de signaler un danger imminent, ces boutons vous permettent également de **prévenir et de déclencher des aides sanitaires et d’urgence** prévues par votre entreprise (option paramétrée lors de l’implémentation de HtoH)
 
-Vous pouvez solliciter le support des prestataires reconnus par votre entreprise afin de recevoir une assistance appropriée pour tout aléa survenant pendant votre déplacement.
+Vous pouvez solliciter le support des prestataires reconnus par votre entreprise afin de recevoir une assistance appropriée pour tout aléa survenant pendant votre voyage.

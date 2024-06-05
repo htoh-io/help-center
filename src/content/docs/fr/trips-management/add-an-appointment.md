@@ -5,7 +5,7 @@ title: Comment ajouter un rendez-vous ?
 ## Ajouter un rendez-vous manuellement
 
 1. Sur la page d’accueil, cliquez sur **Ajouter un rendez-vous**
-2. Sélectionnez d'abord le déplacement dans lequel vous souhaitez ajouter ce rendez-vous
+2. Sélectionnez d'abord le voyage dans lequel vous souhaitez ajouter ce rendez-vous
 3. Remplissez les informations, puis précisez si ce rendez-vous est personnel
 4. Enregistrez
 
@@ -26,8 +26,8 @@ title: Comment ajouter un rendez-vous ?
 
 <span style="color:dimgray;">Icône “Agenda synchronisé”</span>
 
-Tous les événements de vos calendriers synchronisés sont importés automatiquement, et sans action requise de votre part, dans vos déplacements existants uniquement. Autrement dit, les événements sans déplacements préalables aux mêmes dates ne sont pas importés.
+Tous les événements de vos calendriers synchronisés sont importés automatiquement, et sans action requise de votre part, dans vos voyages existants uniquement. Autrement dit, les événements sans voyages préalables aux mêmes dates ne sont pas importés.
 
-Enfin, la synchronisation est effective dans un sens, de votre agenda vers l’application HtoH, mais pas de l’autre. Les événements de vos déplacements ne sont pas importés dans votre agenda.
+Enfin, la synchronisation est effective dans un sens, de votre agenda vers l’application HtoH, mais pas de l’autre. Les événements de vos voyages ne sont pas importés dans votre agenda.
 
 <span style="background-color:moccasin;">**Attention :**</span><span style="background-color:moccasin;"> Afin d’éviter que l’agenda dans HtoH soit biaisé par des évènements dans votre calendrier sur plusieurs jours, nous avons décidé d’exclure automatiquement l’import des évènements de votre calendrier dont le premier jour et ou le dernier jour ne serait pas compris dans votre voyage.</span>

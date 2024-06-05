@@ -11,14 +11,14 @@ Que ça soit depuis un outil corporate ou depuis l'agence de voyages de votre em
 1. Réservez depuis l'outil
 2. Une fois le paiement effectué, la récupération de la réservation peut prendre quelques minutes
 3. Vous recevez une notification sur votre téléphone quand l'importation est terminée
-4. Ouvrez la notification pour consulter votre réservation dans votre déplacement
+4. Ouvrez la notification pour consulter votre réservation dans votre voyage
 
 ## J'ai réservé directement avec l'agence de voyages
 
 1. Appelez ou écrivez un email à votre agence pour réserver
 2. Une fois la réservation effectuée, la récupération peut prendre quelques minutes
 3. Vous recevez une notification sur votre téléphone quand l'importation est terminée
-4. Ouvrez la notification pour consulter votre réservation dans votre agenda de déplacement
+4. Ouvrez la notification pour consulter votre réservation dans votre agenda de voyage
 
 L'importation dépend aussi du temps de traitement de votre agence de voyages. Si vous n'avez pas reçu d’email de confirmation, c'est que la réservation n'a pas encore été effectuée par votre agence, elle ne peut donc pas être importée dans l'app.
 

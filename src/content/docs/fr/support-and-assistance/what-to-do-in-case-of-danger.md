@@ -2,7 +2,7 @@
 title: Je suis en danger. Que dois-je faire ?
 ---
 
-En déplacement, tout peut arriver, le meilleur comme le pire. Dans une situation de danger, de choc ou de stress, il est primordial de signaler sa situation rapidement et sans complications.
+En voyage, tout peut arriver, le meilleur comme le pire. Dans une situation de danger, de choc ou de stress, il est primordial de signaler sa situation rapidement et sans complications.
 
 Un onglet Assistance est prévu à cet effet dans lequel tous les contacts utiles pour votre support ou votre sécurité ont été centralisés.
 

@@ -14,4 +14,4 @@ Depuis l’onglet Assistance de votre compagnon de voyage HtoH, et suivant les s
 ### Rappel
 
 * Afin d’éviter des litiges, ou une facturation des services non utilisés, vous devez modifier ou annuler une réservation **et** contacter **avant toute chose** le prestataire (Vol, Train, Location de voiture ou Hôtel) ou l'agence de voyages de votre employeur habilité dont les coordonnées sont disponibles dans l’onglet Assistance. Vous pouvez depuis HtoH vous connecter aux outils de réservation de votre entreprise pour éventuellement effectuer ces opérations.
-* HtoH est avant tout un compagnon de voyage qui vous accompagne tout au long de vos déplacements et vous aide à tout centraliser, **l'équipe HtoH est dans l’incapacité de traiter vos réservations ou vous mettre en relation avec un quelconque service, même en cas d'urgence ou de force majeure.**
+* HtoH est avant tout un compagnon de voyage qui vous accompagne tout au long de vos voyages et vous aide à tout centraliser, **l'équipe HtoH est dans l’incapacité de traiter vos réservations ou vous mettre en relation avec un quelconque service, même en cas d'urgence ou de force majeure.**

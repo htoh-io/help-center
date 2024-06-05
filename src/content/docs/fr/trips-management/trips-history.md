@@ -1,9 +1,9 @@
 ---
-title: Comment accéder à vos déplacements passés et à venir ?
+title: Comment accéder à vos voyages passés et à venir ?
 ---
 
-1. Sur la page d'accueil, à droite du titre **Prochains déplacements**, cliquez sur **Voir tout**
-2. Accédez à vos déplacements passés en cliquant sur l'onglet **Passés** et à vos déplacements à venir en cliquant sur **Prochain**
+1. Sur la page d'accueil, à droite du titre **Prochains voyages**, cliquez sur **Voir tout**
+2. Accédez à vos voyages passés en cliquant sur l'onglet **Passés** et à vos voyages à venir en cliquant sur **Prochain**
 
 Par défaut, les voyages passés sont classés par ordre antichronologique (du plus récent au plus ancien) tandis que les voyages à venir sont dans l'ordre chronologique (du plus proche au plus lointain).
 

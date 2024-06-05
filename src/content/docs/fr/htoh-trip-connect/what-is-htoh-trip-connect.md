@@ -4,7 +4,7 @@ title: Qu'est-ce que HtoH Trip Connect© ?
 
 HtoH Trip Connect© est une technologie signée HtoH qui automatise la centralisation de vos réservations de voyage.
 
-Pour vous voyageur, c'est un agrégateur de données qui vous aide à récupérer et centraliser l'intégralité de vos informations de déplacement au même endroit, dans un agenda clair et complet pour chaque déplacement.
+Pour vous voyageur, c'est un agrégateur de données qui vous aide à récupérer et centraliser l'intégralité de vos informations de voyage au même endroit, dans un agenda clair et complet pour chaque voyage.
 
 ### Dans quelle situation êtes-vous ?
 

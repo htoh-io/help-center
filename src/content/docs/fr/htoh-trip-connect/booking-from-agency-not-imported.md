@@ -5,7 +5,7 @@ title: J'ai réservé avec l'outil de mon entreprise, mais ma réservation n'est
 1. Réservez depuis l'outil. Quelques exemples d'outils d'entreprise : KDS, The Treep, Rydoo, TripActions, TravelPerk, ...
 2. Une fois le paiement effectué, la récupération de la réservation peut prendre quelques minutes
 3. Patientez **jusqu'à 5 minutes** avant que votre réservation soit importée. Vous recevez une notification quand l'importation est terminée.
-4. Ouvrez la notification pour consulter votre réservation dans votre déplacement
+4. Ouvrez la notification pour consulter votre réservation dans votre voyage
 
 <span style="background-color:moccasin;">**Astuce :**</span><span style="background-color:moccasin;"> Après avoir réservé, passez à autre chose, notre technologie HtoH Trip Connect fait le job !</span>
 

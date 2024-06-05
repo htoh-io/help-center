@@ -14,7 +14,7 @@ En fonction des services auxquels vous avez accès, vous y trouverez les coordon
 * Support de votre entreprise
 * Pour une réservation
 
-HtoH est avant tout un compagnon de voyage qui vous accompagne tout au long de vos déplacements et vous aide à tout centraliser, **l'équipe HtoH n'est donc pas en mesure de traiter directement vos réservations**.
+HtoH est avant tout un compagnon de voyage qui vous accompagne tout au long de vos voyages et vous aide à tout centraliser, **l'équipe HtoH n'est donc pas en mesure de traiter directement vos réservations**.
 
 Pour modifier ou annuler une réservation, contactez **avant toute chose** le prestataire (Vol, Train, Location de voiture ou Hôtel) ou l'agence de voyages de votre employeur habilité.
 

@@ -1,5 +1,5 @@
 ---
-title: Comment synchroniser vos rendez-vous dans vos déplacements?
+title: Comment synchroniser vos rendez-vous dans vos voyages?
 ---
 
 Si vous synchronisez votre agenda avec l’application pour la 1ère fois, Il est possible qu’une alerte de votre téléphone se déclenche afin d’approuver l’importation des données de votre agenda
@@ -19,8 +19,8 @@ Si vous synchronisez votre agenda avec l’application pour la 1ère fois, Il es
 
 
 
-Tous les événements de vos calendriers synchronisés sont importés automatiquement, et sans action requise de votre part, dans vos déplacements existants uniquement. Autrement dit, les événements sans déplacements préalables aux mêmes dates ne sont pas importés.
+Tous les événements de vos calendriers synchronisés sont importés automatiquement, et sans action requise de votre part, dans vos voyages existants uniquement. Autrement dit, les événements sans voyages préalables aux mêmes dates ne sont pas importés.
 
-Enfin, la synchronisation est effective dans un sens, de votre agenda vers l’application HtoH, mais pas de l’autre. Les événements de vos déplacements ne sont pas importés dans votre agenda.
+Enfin, la synchronisation est effective dans un sens, de votre agenda vers l’application HtoH, mais pas de l’autre. Les événements de vos voyages ne sont pas importés dans votre agenda.
 
 <span style="background-color:moccasin;">**Attention :**</span><span style="background-color:moccasin;"> Afin d’éviter que l’agenda dans HtoH soit biaisé par des évènements dans votre calendrier sur plusieurs jours, nous avons décidé d’exclure automatiquement l’import des évènements de votre calendrier dont le premier jour et ou le dernier jour ne serait pas compris dans votre voyage.</span>
