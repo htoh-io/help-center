@@ -9,9 +9,3 @@ Concerned about protecting your privacy, at HtoH, we make every effort to protec
 On data privacy, we ensure strict confidentiality, and security measures are implemented to protect your information from unauthorized access.
 
 The HtoH application complies with the General Data Protection Regulation (GDPR), which means that all the information you provide is stored on our server located in Europe and used only within the framework of the services we offer.
-
-## Local identity documents
-
-All documents you save in the HtoH wallet are not accessible anywhere else other than on your device and not on servers. They will never be shared with third parties.
-
-You can use the HtoH wallet with peace of mind!
