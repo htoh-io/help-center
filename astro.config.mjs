@@ -12,7 +12,7 @@ export default defineConfig({
 	},
 	vite: {
 		ssr: {
-			external: ['node:buffer', 'node:url'],
+			noExternal: true,
 		},
 	},
 	integrations: [starlight({
