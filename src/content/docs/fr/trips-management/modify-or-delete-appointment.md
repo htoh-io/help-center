@@ -16,7 +16,7 @@ title: Comment modifier ou supprimer un rendez-vous ?
 3. Cliquez sur le bouton **Modifier**
 4. Faites les modifications nécessaire et enregistrez
 
-### Bon a savoir
+## Bon a savoir
 
 * La possibilité de modifier un rendez-vous fonctionne avec les rendez-vous rentrés directement dans votre agenda depuis l’App HtoH.
 * Les rendez-vous issus de la synchronisation de votre agenda avec HtoH peuvent etre supprimés depuis votre voyage, mais pas modifiés. Pour cela, vous devez les modifier directement dans le calendrier de votre téléphone ou depuis Outlook

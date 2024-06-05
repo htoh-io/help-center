@@ -2,7 +2,7 @@
 title: Quel type d’email je dois transférer pour importer une réservation ?
 ---
 
-### L’email de confirmation de réservation du prestataire est le seul réellement fiable !
+## L’email de confirmation de réservation du prestataire est le seul réellement fiable !
 
 * Pour une récupération optimale des informations par la technologie [HtoH Trip Connect©](/fr/htoh-trip-connect/what-is-htoh-trip-connect), l’email de confirmation contient généralement un récapitulatif exhaustif de votre réservation : **Destination, Dates, Prix, Aéroport ou gare de départ, Aéroport ou gare d'arrivée, N° de réservation, Référence...**
 * HtoH Trip Connect est en capacité d’importer automatiquement **les réservations de plus de 770 prestataires!** (Consultez la liste exhaustive des prestataires [sur cet article](/fr/htoh-trip-connect/supported-booking-email-types))

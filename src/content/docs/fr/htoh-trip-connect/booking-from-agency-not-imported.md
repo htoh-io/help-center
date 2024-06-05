@@ -13,7 +13,7 @@ Après avoir réservé, passez à autre chose, notre technologie HtoH Trip Conne
 
 Si vous n'avez pas reçu d’email de confirmation de votre prestataire, c'est que la réservation n'a pas encore été effectuée par votre agence, ou alors elle n’est pas encore approuvée par votre hiérarchie. Elle ne peut donc pas être importée dans l'app.
 
-### Si le problème persiste
+## Si le problème persiste
 
 1. Contactez tout d’abord votre prestataire agence de voyages vi les numéros et emails mis à votre disposition dans l’onglet assistance de HtoH afin de vérifier le statut de votre réservation. A t-elle été prise en compte?
 2. Si la réservation a bien été validé et que le problème persiste ou que vous ne recevez aucune notification, contactez notre support à [support@htoh.io](mailto:support@htoh.io).

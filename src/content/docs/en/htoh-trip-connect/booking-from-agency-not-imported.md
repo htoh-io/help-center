@@ -13,7 +13,7 @@ After booking, move on to other tasks; our HtoH Trip Connect technology handles 
 
 If you haven't received a confirmation email from your provider, it means the booking has not yet been made by your agency or has not been approved by your hierarchy. Therefore, it cannot be imported into the app.
 
-### If the issue persists
+## If the issue persists
 
 1. First, contact your travel agency provider using the numbers and emails provided in the HtoH assistance tab to check the status of your booking. Has it been processed?
 2. If the booking has been validated but the issue persists or you receive no notification, contact our support at [support@htoh.io](mailto:support@htoh.io)

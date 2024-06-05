@@ -11,7 +11,7 @@ From the Assistance tab of your HtoH travel companion, depending on the services
 * Car rental company
 * Traveler services
 
-### Reminder
+## Reminder
 
 * To avoid disputes or billing for unused services, you should modify or cancel a booking and contact the provider (Flight, Train, Car rental, or Hotel) or your employer's authorized travel agency whose contact information is available in the Assistance tab. You can use HtoH to access your company's booking tools to perform these operations if necessary.
 * HtoH is primarily a travel companion that accompanies you throughout your journeys and helps you centralize everything. **HtoH team is unable to handle your bookings or connect you with any service, even in emergencies or force majeure situations.**
