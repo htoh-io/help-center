@@ -1,19 +1,11 @@
 import { defineConfig, passthroughImageService } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-import cloudflare from "@astrojs/cloudflare";
-
 // https://astro.build/config
 export default defineConfig({
 	output: "static",
-	adapter: cloudflare(),
 	image: {
 		service: passthroughImageService()
-	},
-	vite: {
-		ssr: {
-			noExternal: true,
-		},
 	},
 	integrations: [starlight({
 		title: 'Support',
