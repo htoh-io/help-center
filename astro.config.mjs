@@ -10,6 +10,11 @@ export default defineConfig({
 	image: {
 		service: passthroughImageService()
 	},
+	vite: {
+		ssr: {
+			external: ['node:buffer'],
+		},
+	},
 	integrations: [starlight({
 		title: 'Support',
 		social: {
