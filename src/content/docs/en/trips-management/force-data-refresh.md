@@ -2,7 +2,7 @@
 title: How to force data refresh in the app?
 ---
 
-Sometimes, when you're waiting for a reservation import or creating a new trip, it may be necessary to force the refresh of information within HtoH.
+Sometimes, when you're waiting for a booking import or creating a new trip, it may be necessary to force the refresh of information within HtoH.
 
 By simply pulling down on these pages, the information will automatically update after a brief loading moment. This gesture works on the following screens:
 

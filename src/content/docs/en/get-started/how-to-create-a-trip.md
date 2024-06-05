@@ -2,7 +2,7 @@
 title: How to create a trip?
 ---
 
-Your trips are presented in the form of an agenda where you can add your reservations and appointments in a playful way so you don't forget anything before you leave.
+Your trips are presented in the form of an agenda where you can add your bookings and appointments in a playful way so you don't forget anything before you leave.
 
 ## Create a trip manually
 
@@ -14,4 +14,4 @@ Your trips are presented in the form of an agenda where you can add your reserva
 
 ## Create a trip automatically
 
-If you import a reservation using [HtoH Trip Connect©](/en/htoh-trip-connect/what-is-htoh-trip-connect) technology but have not previously created the trip, no problem, a trip is automatically created, without any action on your part, to include your reservation. To learn more, [see this article](/en/htoh-trip-connect/import-booking-without-creating-the-trip).
+If you import a booking using [HtoH Trip Connect©](/en/htoh-trip-connect/what-is-htoh-trip-connect) technology but have not previously created the trip, no problem, a trip is automatically created, without any action on your part, to include your booking. To learn more, [see this article](/en/htoh-trip-connect/import-booking-without-creating-the-trip).

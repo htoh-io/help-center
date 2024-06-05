@@ -1,5 +1,5 @@
 ---
-title: How to contact your company's travel agency within the app to make a reservation?
+title: How to contact your company's travel agency within the app to make a booking?
 ---
 
 ## ✅ I have access to the services of a travel agency within my company
@@ -14,4 +14,4 @@ This feature is disabled if your company does not have a travel agency. If you a
 
 
 
-You can also manually import your reservations made directly with over 700 referenced travel providers, [read this article](/en/htoh-trip-connect/booking-from-agency-not-imported).
+You can also manually import your bookings made directly with over 700 referenced travel providers, [read this article](/en/htoh-trip-connect/booking-from-agency-not-imported).
