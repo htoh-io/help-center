@@ -19,7 +19,7 @@ description: SPT-A-3
 
 <span style="background-color:moccasin;">**Important :** </span><span style="background-color:moccasin;">La suppression d'un voyage n’annule pas les réservations et les rendez-vous que vous avez enregistré préalablement. Merci de contacter le support des prestataires pour procéder à l’annulation définitive de vos réservations.</span>
 
-Si vous souhaitez seulement supprimer un rendez-vous d'un agenda de déplacement, [lisez cet article ici](/fr/trips-management/comment-modifier-ou-supprimer-un-rendez-vous)
+Si vous souhaitez seulement supprimer un rendez-vous d'un agenda de déplacement, [lisez cet article ici](/fr/trips-management/modify-or-delete-appointment)
 
 Pour contacter les prestataires :
 

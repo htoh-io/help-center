@@ -9,7 +9,7 @@ Un onglet Assistance est prévu à cet effet dans lequel tous les contacts utile
 
 Plusieurs solutions s’offrent à vous en 1 seul clic. Vous pouvez contacter par téléphone et/ou par email le service d’assistance adéquat mis à disposition par votre employeur :
 
-* **Signalement en cas de danger -** Aussi appelé Safety check, fonctionnalité qui informe instantanément votre employeur de votre situation géographique. Pour en savoir plus, [consultez cet article](/fr/support-and-assistance/a-quoi-servent-les-boutons-de-signalement-en-cas-de-danger)
+* **Signalement en cas de danger -** Aussi appelé Safety check, fonctionnalité qui informe instantanément votre employeur de votre situation géographique. Pour en savoir plus, [consultez cet article](/fr/support-and-assistance/reporting-incident)
 * **Contacts utiles internes -** Dans la 1ère section joignez toutes les personnes ou les services internes à votre entreprise paramétrés par votre employeur par mail ou par téléphone
-* **Prestataires de voyage -** Dans la 2nde section joignez directement les supports de vos prestataires, notamment concernant vos réservations. Pour en savoir plus, [consultez cet article](/fr/support-and-assistance/j-ai-un-probleme-avec-une-reservation-comment-contacter-un-support).
+* **Prestataires de voyage -** Dans la 2nde section joignez directement les supports de vos prestataires, notamment concernant vos réservations. Pour en savoir plus, [consultez cet article](/fr/support-and-assistance/contact-support-for-booking-issue).
 * **Portails internationaux -** La dernière section vous offre un accès direct aux différents portails de voyageurs à propos des dernières informations, restrictions et ou formalités nécessaires lors de vos prochaines destinations.

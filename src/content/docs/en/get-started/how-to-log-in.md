@@ -17,8 +17,6 @@ Go to your app store
 
 ## **Log in to the application with a temporary code**
 
-
-
 If you prefer passwordless login, connect using a temporary code. Equally secure, this login system involves receiving a code sent to your email address, valid for 5 minutes and for one-time use:
 
 1. Open the application and click on **Log in**
@@ -36,8 +34,8 @@ If you prefer to create a password, you also have the option, and the principle 
 2. Enter your email address and click on **Log in with a password**
 3. Then follow the instructions to create your password
 
-If you have forgotten your password or are having trouble logging in, see [How to reset my password?](/en/support-and-assistance/how-do-i-reset-my-password)
+If you have forgotten your password or are having trouble logging in, see [How to reset my password?](/en/support-and-assistance/reset-password)
 
 ## **Enable notifications**
 
-Upon first login, your phone asks if you want to enable notifications; we recommend approving notification activation to be alerted in real-time. Here's [How to enable or disable HtoH system notifications on my phone?](/en/trips-management/how-to-enable-or-disable-htoh-system-notifications-on-my-phone)
+Upon first login, your phone asks if you want to enable notifications; we recommend approving notification activation to be alerted in real-time. Here's [How to enable or disable HtoH system notifications on my phone?](/en/trips-management/system-notifications)

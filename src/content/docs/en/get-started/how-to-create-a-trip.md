@@ -15,4 +15,4 @@ Your trips are presented in the form of an agenda where you can add your reserva
 
 ## Create a trip automatically
 
-If you import a reservation using [HtoH Trip Connect©](/en/htoh-trip-connect/what-is-htoh-trip-connect-c) technology but have not previously created the trip, no problem, a trip is automatically created, without any action on your part, to include your reservation. To learn more, [see this article](/en/htoh-trip-connect/can-i-import-a-reservation-without-creating-the-trip).
+If you import a reservation using [HtoH Trip Connect©](/en/htoh-trip-connect/what-is-htoh-trip-connect) technology but have not previously created the trip, no problem, a trip is automatically created, without any action on your part, to include your reservation. To learn more, [see this article](/en/htoh-trip-connect/import-booking-without-creating-the-trip).

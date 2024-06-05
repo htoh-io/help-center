@@ -15,4 +15,4 @@ Cette fonctionnalité est désactivée si votre entreprise n’a pas d'agence de
 
 
 
-Vous pouvez aussi importer vous même vos réservations faites directement auprès de plus de 700 prestataires voyages référencés, [lisez cet article](/fr/htoh-trip-connect/quel-type-de-reservation-je-peux-importer-par-transfert-d-email)
+Vous pouvez aussi importer vous même vos réservations faites directement auprès de plus de 700 prestataires voyages référencés, [lisez cet article](/fr/htoh-trip-connect/supported-booking-email-types)

@@ -12,6 +12,6 @@ description: SPT-A-31
 3. Forward this email and paste your **@htoh.app** email address as the recipient
 4. Send the email
 
-<span style="background-color:palegreen;"></span>When you book [with your company's internal tool or travel agency](/en/htoh-trip-connect/i-booked-with-my-company-s-tool-or-travel-agency-how-do-i-retrieve-my-reservation), or through the app, you don't need to do anything—your reservations are automatically retrieved!
+<span style="background-color:palegreen;"></span>When you book [with your company's internal tool or travel agency](/en/htoh-trip-connect/bookings-from-agency), or through the app, you don't need to do anything—your reservations are automatically retrieved!
 
 However, if you book independently on tools and travel sites that everyone uses for personal purposes—flight and train comparators, car rental sites, accommodation sites like Booking.com, Airbnb, etc.—you'll need to follow the steps above to import those reservations.

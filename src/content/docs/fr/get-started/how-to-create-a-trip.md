@@ -15,4 +15,4 @@ Vos déplacements se présentent sous la forme d'un agenda dans lequel vous pou
 
 ## Créer un déplacement automatiquement
 
-Si vous importez une réservation grâce à la technologie [HtoH Trip Connect©](/fr/htoh-trip-connect/qu-est-ce-que-htoh-trip-connect-c) mais que vous n'avez pas créé le déplacement au préalable, aucun problème, un déplacement est créé automatiquement, sans aucune action de votre part, pour y intégrer votre réservation. Pour en savoir plus, [consultez cet article](/fr/htoh-trip-connect/est-ce-que-je-peux-importer-une-reservation-sans-creer-le-deplacement).
+Si vous importez une réservation grâce à la technologie [HtoH Trip Connect©](/fr/htoh-trip-connect/what-is-htoh-trip-connect) mais que vous n'avez pas créé le déplacement au préalable, aucun problème, un déplacement est créé automatiquement, sans aucune action de votre part, pour y intégrer votre réservation. Pour en savoir plus, [consultez cet article](/fr/htoh-trip-connect/import-booking-without-creating-the-trip).

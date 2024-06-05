@@ -36,8 +36,8 @@ Si vous préférez créer un mot de passe, vous en avez également la possibilit
 2. Saisissez votre adresse email puis cliquez sur **Se connecter par mot de passe**
 3. Suivez ensuite les instructions pour créer votre mot de passe
 
-Si vous avez oublié votre mot de passe ou rencontrez des difficultés à vous connecter, consultez [Comment réinitialiser mon mot de passe ?](/fr/support-and-assistance/comment-reinitialiser-mon-mot-de-passe)
+Si vous avez oublié votre mot de passe ou rencontrez des difficultés à vous connecter, consultez [Comment réinitialiser mon mot de passe ?](/fr/support-and-assistance/reset-password)
 
 ## Activez les notifications
 
-A la 1ère connexion, votre téléphone vous demande si vous souhaitez activer les notifications, **nous vous recommandons d’approuver l’activation des notifications** afin d’être alerté en temps réel. Nous vous expliquons ici [Comment activer ou désactiver les notifications système HtoH de mon téléphone ?](/fr/trips-management/comment-activer-ou-desactiver-les-notifications-systeme-htoh-de-mon-telephone)
+A la 1ère connexion, votre téléphone vous demande si vous souhaitez activer les notifications, **nous vous recommandons d’approuver l’activation des notifications** afin d’être alerté en temps réel. Nous vous expliquons ici [Comment activer ou désactiver les notifications système HtoH de mon téléphone ?](/fr/trips-management/system-notifications)

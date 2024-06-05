@@ -19,7 +19,7 @@ description: SPT-A-24
 
 <span style="background-color:moccasin;">**Important:** </span><span style="background-color:moccasin;">Deleting a trip does not cancel the reservations and appointments you have previously saved. Please contact the providers' support to proceed with the definitive cancellation of your reservations.</span>
 
-If you only want to delete an appointment or reservation from a trip agenda, **[read this article here](/en/trips-management/how-to-modify-or-delete-an-appointment)**
+If you only want to delete an appointment or reservation from a trip agenda, **[read this article here](/en/trips-management/modify-or-delete-appointment)**
 
 To contact the providers:
 

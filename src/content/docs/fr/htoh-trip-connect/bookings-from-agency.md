@@ -25,4 +25,4 @@ L'importation dépend aussi du temps de traitement de votre agence de voyages. S
 
 <span style="background-color:moccasin;">**Astuce :** </span><span style="background-color:moccasin;">Dans les 2 cas, après avoir réservé, passez à autre chose, notre technologie HtoH Trip Connect fait le job !</span>
 
-Si vous avez effectué une réservation mais qu'elle ne s'importe pas, [consultez cet article](/fr/htoh-trip-connect/j-ai-reserve-avec-l-outil-de-mon-entreprise-mais-ma-reservation-n-est-pas-importee)
+Si vous avez effectué une réservation mais qu'elle ne s'importe pas, [consultez cet article](/fr/htoh-trip-connect/booking-from-agency-not-imported)

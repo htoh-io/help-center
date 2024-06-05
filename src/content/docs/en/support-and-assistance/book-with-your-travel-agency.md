@@ -15,4 +15,4 @@ This feature is disabled if your company does not have a travel agency. If you a
 
 
 
-You can also manually import your reservations made directly with over 700 referenced travel providers, [read this article](/en/htoh-trip-connect/what-type-of-reservation-can-i-import-through-email-transfer).
+You can also manually import your reservations made directly with over 700 referenced travel providers, [read this article](/en/htoh-trip-connect/booking-from-agency-not-imported).

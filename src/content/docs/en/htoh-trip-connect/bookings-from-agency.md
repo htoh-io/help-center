@@ -25,4 +25,4 @@ The import also depends on your travel agency's processing time. If you haven't 
 
 <span style="background-color:moccasin;">**Tip:**</span><span style="background-color:moccasin;"> In both cases, after making the reservation, move on to something else, our HtoH Trip Connect technology does the job!</span>
 
-If you've made a reservation but it's not importing, [check out this article](/en/htoh-trip-connect/i-made-a-reservation-with-my-company-s-tool-but-it-is-still-not-imported)
+If you've made a reservation but it's not importing, [check out this article](/en/htoh-trip-connect/booking-from-agency-not-imported)

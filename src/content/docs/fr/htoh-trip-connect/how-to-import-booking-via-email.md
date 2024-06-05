@@ -14,6 +14,6 @@ description: SPT-A-11
 
 <span style="background-color:palegreen;"></span>![](./images/import-by-email.png)
 
-Quand vous réservez avec [l'outil interne ou l'agence de voyages de votre entreprise](/fr/htoh-trip-connect/j-ai-reserve-avec-l-outil-ou-l-agence-de-voyages-de-mon-entreprise-comment-recuperer-ma-reservation), vous n'avez rien à faire, vos réservations sont récupérées automatiquement !
+Quand vous réservez avec [l'outil interne ou l'agence de voyages de votre entreprise](/fr/htoh-trip-connect/bookings-from-agency), vous n'avez rien à faire, vos réservations sont récupérées automatiquement !
 
 Seulement, vous réservez également par vous-même sur des outils et sites de voyage que tout le monde utilise à titre personnel : les comparateurs de vol, de train, de location de voiture, les sites d'hébergement type Booking.com, Airbnb, etc.
