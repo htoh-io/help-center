@@ -5,6 +5,8 @@
     --sl-text-h2: var(--sl-text-2xl);
     --sl-text-h3: var(--sl-text-xl);
     --sl-text-h4: var(--sl-text-lg);
+
+    --sl-color-bg-sidebar: red; /*var(--sl-color-gray-6);*/
 }
 
 .sl-markdown-content img {
@@ -12,12 +14,14 @@
     margin: auto;
 }
 
-.pagination-links a span {
-    color: var(--sl-color-gray-4);
-    font-size: var(--sl-text-sm);
+#starlight__sidebar {
+    --sl-color-bg-sidebar: var(--sl-color-gray-7);
 }
 
-.pagination-links span.link-title {
-    color: var(--sl-color-text);
-    font-size: var(--sl-text-base);
+#starlight__sidebar span.large {
+    font-weight: 500;
+}
+
+#starlight__sidebar a[aria-current='page'] {
+    font-weight: 400;
 }
