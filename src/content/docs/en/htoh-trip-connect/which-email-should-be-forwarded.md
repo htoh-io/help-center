@@ -15,5 +15,5 @@ You can attach any other necessary travel-related documents by directly adding t
 
 If you're unable to retrieve your booking, refer to these articles:
 
-* [I booked through my company's tool, but my booking isn't imported](/en/htoh-trip-connect/booking-from-agency-not-imported)
+* [I booked through my company's booking tool, but my booking isn't imported](/en/htoh-trip-connect/booking-from-agency-not-imported)
 * [I forwarded an email to my @htoh.app address, but it's not imported](/en/htoh-trip-connect/forwarded-email-not-imported)

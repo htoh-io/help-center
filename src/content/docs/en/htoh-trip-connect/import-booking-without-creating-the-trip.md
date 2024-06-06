@@ -14,5 +14,5 @@ By default, when a trip is automatically created, it is named **Trip to \[Destin
 
 Check the different cases where a trip is automatically created:
 
-* [You booked with your company's tool or travel agency](/en/htoh-trip-connect/bookings-from-agency)
+* [You booked with your company's booking tool or travel agency](/en/htoh-trip-connect/bookings-from-agency)
 * [You forwarded a booking by email](/en/htoh-trip-connect/how-to-import-booking-via-email)

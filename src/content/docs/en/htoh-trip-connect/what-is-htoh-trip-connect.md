@@ -8,5 +8,5 @@ For you as a traveler, it's a data aggregator that helps you retrieve and centra
 
 ## Which situation are you in?
 
-* I booked with my company's tool or travel agency, [check out this article](/en/htoh-trip-connect/bookings-from-agency)
+* I booked with my company's booking tool or travel agency, [check out this article](/en/htoh-trip-connect/bookings-from-agency)
 * I booked on a third-party website (Examples: Air France, Booking.com, SkyScanner, Airbnb, SNCF Connect, ...), [check out this article](/en/htoh-trip-connect/how-to-import-booking-via-email)

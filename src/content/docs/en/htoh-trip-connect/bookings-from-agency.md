@@ -1,10 +1,10 @@
 ---
-title: I booked with my company's tool or travel agency, how do I retrieve my booking?
+title: I booked with my company's booking tool or travel agency, how do I retrieve my booking?
 ---
 
-Whether it's through a corporate tool or your employer's travel agency, the process is the same, **you don't have to do anything!**
+Whether it's through a corporate booking tool or your employer's travel agency, the process is the same, **you don't have to do anything!**
 
-## I booked through my company's tool
+## I booked through my company's booking tool
 
 Examples of company tools: KDS, TravelCash, The Treep, Rydoo, TripActions, TravelPerk, ...
 
