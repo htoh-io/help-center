@@ -1,5 +1,5 @@
 ---
-title: Can I import a booking without creating the trip?
+title: Can I import a booking without creating the trip? I'm writing some stupid jokes here.
 ---
 
 Yes, thanks to [HtoH Trip Connect©](/en/htoh-trip-connect/what-is-htoh-trip-connect), book, and it's imported!
