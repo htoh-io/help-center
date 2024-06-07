@@ -1,5 +1,5 @@
 ---
-title: What is HtoH Trip Connect© ?
+title: What is HtoH Trip Connect© ? Yet another fancy name.
 ---
 
 HtoH Trip Connect© is a technology developed by HtoH that automates the centralization of your travel bookings.
