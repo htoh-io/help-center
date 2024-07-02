@@ -14,7 +14,7 @@ Allez dans votre store
 
 **[App Store](https://apps.apple.com/us/app/htoh/id1584656427)**
 
-## Se connecter à l'application par code temporaire
+## Se connecter à l'application par code temporaire via email
 
 ![](./images/sign-in.png)
 
@@ -22,10 +22,24 @@ Si vous préférez la connexion sans mot de passe, connectez vous à l’aide d�
 
 1. Ouvrez l’application et cliquez sur **Se connecter**
 2. Saisissez votre adresse email puis cliquez sur **Se connecter par code temporaire**
-3. Confirmez votre adresse email en cliquant une nouvelle fois sur **Recevoir un code temporaire**
+3. Confirmez votre adresse email en cliquant une nouvelle fois sur **Recevoir un code temporaire via email**
 4. Vous recevez instantanément un code à 6 chiffres par email dans votre boîte de réception
 5. Retournez dans l’application pour saisir ou copier-coller ce code
 6. Cliquez sur **Se connecter**, l’aventure peut débuter !
+
+## Se connecter à l'application avec un code temporaire via SMS
+
+Cette option de connexion est la même que [le code temporaire via email](#se-connecter-à-lapplication-par-code-temporaire-via-email) mentionné ci-dessus.
+Si vous avez déjà fourni votre numéro de mobile dans l'application HtoH, vous pouvez utiliser cette option.
+
+Elle peut également être utile si, pour une raison quelconque, vous ne pouvez pas recevoir les codes de connexion par email.
+
+1. Ouvrez l'application et cliquez sur **Se connecter**.
+2. Entrez votre adresse email et cliquez sur  **Se connecter par code temporaire**.
+3. Confirmez votre adresse email en cliquant à nouveau sur **Recevoir un code temporaire via SMS**.
+4. Vous recevez instantanément un code à 6 chiffres par SMS.
+5. Retournez dans l'application pour entrer ou copier-coller ce code.
+6. Cliquez sur **Se connecter** et l'aventure peut commencer !
 
 ## Se connecter à l'application par mot de passe
 

@@ -14,14 +14,28 @@ Go to your app store
 
 **[App Store](https://apps.apple.com/us/app/htoh/id1584656427)**
 
-## **Log in to the application with a temporary code**
+## Log in to the application with a temporary code via email
 
-If you prefer passwordless login, connect using a temporary code. Equally secure, this login system involves receiving a code sent to your email address, valid for 5 minutes and for one-time use:
+If you prefer passwordless login, you can use using a temporary code. Equally secure, this login system involves receiving a code sent to your email address, valid for 5 minutes and for one-time use:
 
 1. Open the application and click on **Log in**
-2. Enter your email address and click on **Log in with temporary code**
-3. Confirm your email address by clicking **Receive a temporary code** again
+2. Enter your email address and click on **Continue with login code**.
+3. Confirm your email address by clicking **Send me a code via email** again
 4. You instantly receive a 6-digit code by email in your inbox.
+5. Return to the application to enter or copy and paste this code.
+6. Click **Log in** and the adventure can begin!
+
+## Login to application with a temporary code via SMS
+
+This login option is the same as [the temporary code via email](#log-in-to-the-application-with-a-temporary-code-via-email) mentionned above.
+If you've provided your mobile number previously in HtoH app, you can use this option.
+
+It can also help if for some reasons, you cannot receive login codes by email.
+
+1. Open the application and click on **Log in**
+2. Enter your email address and click on **Continue with login code**.
+3. Confirm your email address by clicking **Send me a code via SMS** again
+4. You instantly receive a 6-digit code via SMS.
 5. Return to the application to enter or copy and paste this code.
 6. Click **Log in** and the adventure can begin!
 
