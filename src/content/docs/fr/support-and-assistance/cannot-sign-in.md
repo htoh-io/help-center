@@ -2,6 +2,8 @@
 title: Je ne peux pas me connecter, que faire ?
 ---
 
+## J'ai reçu aucun d'emails auprès de HtoH
+
 Nos e-mails de récupération de mot de passe et de code de connexion devraient fonctionner pour la plupart des fournisseurs d'emails.
 
 Cependant, dans certains cas, vous pourriez rencontrer des problèmes pour les recevoir. Voici nos recommandations :
