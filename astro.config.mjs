@@ -13,6 +13,12 @@ export default defineConfig({
 			en: "Help center",
 			fr: "Centre d'aide"
 		},
+		head: [
+			{
+				tag: 'script',
+				content: 'window.$crisp=[];window.CRISP_WEBSITE_ID="a38ca70d-9f10-4a09-86f9-3c4665791c8d";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();'
+			}
+		],
 		social: {
 			linkedin: 'https://www.linkedin.com/company/htoh-superapp/'
 		},
